@@ -65,7 +65,7 @@ setup(
     test_suite="tests",
     tests_require=test_requirements,
     extras_require=EXTRAS_REQUIRE,
-    url="https://github.com/change/msm_we",
+    url="https://github.com/ZuckermanLab/msm_we",
     version="1.0.2",
     zip_safe=False,
 )
