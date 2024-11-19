@@ -14,16 +14,11 @@ Accelerated Estimation of Long-Timescale Kinetics from Weighted Ensemble Simulat
 
 Installation
 ------------
-Installation step:
+Direct Installation:
 
 pip install git+https://github.com/ZuckermanLab/msm_we
 
-cd </path/to/msm_we>
-
-conda env create -f environment.yml 
-
-or, to install it into an existing conda environment:
-
+Install from github and update the existing conda env as
 cd </path/to/msm_we>
 
 conda env update --name <your WESTPA environment> --file environment.yml
