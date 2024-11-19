@@ -3,6 +3,6 @@
 __author__ = """John Russo"""
 __co_author__ = """Sagar Kania"""
 __email__ = "zuckermd@ohsu.edu"
-__version__ = "0.1.4"
+__version__ = "1.0.1"
 
 from .msm_we import modelWE
