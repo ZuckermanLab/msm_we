@@ -19,6 +19,7 @@ Direct Installation:
 pip install git+https://github.com/ZuckermanLab/msm_we
 
 Install from github and update the existing conda env manually as: 
+
 git clone https://github.com/ZuckermanLab/msm_we.git
 
 cd </path/to/msm_we>
